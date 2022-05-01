@@ -19,4 +19,4 @@ async function renderPdf(pdfDocument) {
 		console.error(error);
 	}
 }
-renderPdf('../assets/example.pdf'); // This is the path to the PDF file.
+renderPdf('../assets/28627601-all-coding-challenges.pdf'); // This is the path to the PDF file.
